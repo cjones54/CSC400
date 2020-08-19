@@ -4,13 +4,14 @@ This project is intended for academic purposes first and there is available 'as 
 --------------------------------------------------------------------------------------------------------
 This project contains a template from startbootstrap.com and has a MIT license seen here:
 https://github.com/StartBootstrap/startbootstrap-sb-admin-2/blob/master/LICENSE
---------------------------------------------------------------------------------------------------------
+---------------------------------------------
 This project also contains PHPMailer their license is here: 
 https://github.com/PHPMailer/PHPMailer/blob/master/LICENSE
---------------------------------------------------------------------------------------------------------
-===========================================================================
+---------------------------------------------
+
+=============================================
 The Directory Structure is as follows:
-===========================================================================
+=============================================
 root directory
 - Contains folders for styling and scripts
 - index.php is the home page that connects to the rest of the site -> index.php in subdirectories are used to redirect browsers attempting to access the directory
@@ -43,11 +44,11 @@ root directory
   ---/Pages//Parts///Parts contains much of the pieces that build each page, many cases the queries are on these pages within functions
   
   
-  ===========================================================================
-  |                                                                         |
-  |                       First Time Deployment                             |
-  |                                                                         |
-  ===========================================================================
+  =========================================
+  |                                       |
+  |        First Time Deployment          |
+  |                                       |
+   ========================================
   
   1)Place all files in the webroot of an linux system with:
             a. apache2 installed
