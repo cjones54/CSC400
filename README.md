@@ -45,10 +45,9 @@ root directory
   
   
  
- 
+ =============================================
           First Time Deployment  
- 
-   ========================================
+ =============================================
   
   1)Place all files in the webroot of an linux system with:
             a. apache2 installed
