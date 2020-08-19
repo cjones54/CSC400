@@ -1,6 +1,6 @@
 # CSC400
 School Project
-This project is intended for academic purposes first and there is available 'as is' with no warranty.
+This project is intended for academic purposes first and it is available 'as is' with no warranty.
 ---------------------------------------------
 This project contains a template from startbootstrap.com and has a MIT license seen here:
 https://github.com/StartBootstrap/startbootstrap-sb-admin-2/blob/master/LICENSE
@@ -54,7 +54,7 @@ root directory
             b. MySQL
              
   2)Open /Pages/Includes/DataLayer/configuration.php
-      0. Make a copy of the file for reference and backup
+      (Make a copy of the file for reference and backup)
       
       I. Edit the email settings (if desired, failing to specify all values will result in the feature remaining inactive)
             a. SMTP (ex: smtp.google.com)
