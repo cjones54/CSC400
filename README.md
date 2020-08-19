@@ -1,9 +1,13 @@
 # CSC400
 School Project
 This project is intended for academic purposes first and there is available 'as is' with no warranty.
-
-This project contains a template from startbootstrap.com and has a MIT license seen here:https://github.com/StartBootstrap/startbootstrap-sb-admin-2/blob/master/LICENSE
-This project also contains PHPMailer their license is here: https://github.com/PHPMailer/PHPMailer/blob/master/LICENSE
+--------------------------------------------------------------------------------------------------------
+This project contains a template from startbootstrap.com and has a MIT license seen here:
+https://github.com/StartBootstrap/startbootstrap-sb-admin-2/blob/master/LICENSE
+--------------------------------------------------------------------------------------------------------
+This project also contains PHPMailer their license is here: 
+https://github.com/PHPMailer/PHPMailer/blob/master/LICENSE
+--------------------------------------------------------------------------------------------------------
 ===========================================================================
 The Directory Structure is as follows:
 ===========================================================================
