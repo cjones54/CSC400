@@ -34,20 +34,20 @@ root directory
   > The primary files developed include: addevent, announcements, login, logout, mytickets, reports, TeamDashboard, ticket, ticketcheckup, ticketsubmit, and        user_activity
   
   >These all reach into the sub-directories to do processing
- ===========================================
+ ------------------------------------------
   --/Pages//manage contains ticket managing files from a logged in user
   --/Pages//Includes contain the main includes file
   
+ ------------------------------------------- 
+ 
+  -/Pages//Includes///DataLayer contains MySQL related configurations plus first deployment scripts
+  -/Pages//Parts///Parts contains much of the pieces that build each page, many cases the queries are on these pages within functions
   
- ===========================================
-  ---/Pages//Includes///DataLayer contains MySQL related configurations plus first deployment scripts
-  ---/Pages//Parts///Parts contains much of the pieces that build each page, many cases the queries are on these pages within functions
   
-  
-  =========================================
-  |                                       |
-  |        First Time Deployment          |
-  |                                       |
+ 
+ 
+          First Time Deployment  
+ 
    ========================================
   
   1)Place all files in the webroot of an linux system with:
@@ -55,7 +55,7 @@ root directory
             b. MySQL
              
   2)Open /Pages/Includes/DataLayer/configuration.php
-      >> Make a copy of the file for reference and backup
+      0. Make a copy of the file for reference and backup
       
       I. Edit the email settings (if desired, failing to specify all values will result in the feature remaining inactive)
             a. SMTP (ex: smtp.google.com)
