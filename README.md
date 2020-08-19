@@ -1,7 +1,7 @@
 # CSC400
 School Project
 This project is intended for academic purposes first and there is available 'as is' with no warranty.
---------------------------------------------------------------------------------------------------------
+---------------------------------------------
 This project contains a template from startbootstrap.com and has a MIT license seen here:
 https://github.com/StartBootstrap/startbootstrap-sb-admin-2/blob/master/LICENSE
 ---------------------------------------------
@@ -34,12 +34,12 @@ root directory
   > The primary files developed include: addevent, announcements, login, logout, mytickets, reports, TeamDashboard, ticket, ticketcheckup, ticketsubmit, and        user_activity
   
   >These all reach into the sub-directories to do processing
- =========================================================================== 
+ ===========================================
   --/Pages//manage contains ticket managing files from a logged in user
   --/Pages//Includes contain the main includes file
   
   
-===========================================================================  
+ ===========================================
   ---/Pages//Includes///DataLayer contains MySQL related configurations plus first deployment scripts
   ---/Pages//Parts///Parts contains much of the pieces that build each page, many cases the queries are on these pages within functions
   
